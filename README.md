@@ -1,6 +1,6 @@
-# Optimal Transport Dataset Distance (OTDD)
+# A customized version for Optimal Transport Dataset Distance (OTDD) 
 
-Codebase accompanying the papers:
+Code accompanying the papers:
 * [Geometric Dataset Distances via Optimal Transport](https://papers.nips.cc/paper/2020/file/f52a7b2610fb4d3f74b4106fb80b233d-Paper.pdf).
 * [Dataset Dynamics via Gradient Flows in Probability Space](http://proceedings.mlr.press/v139/alvarez-melis21a/alvarez-melis21a.pdf).
 
